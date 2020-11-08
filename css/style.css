@@ -47,7 +47,7 @@ button {
   font-size: 1.2em;
 }
 
-.accordion-btn.active:focus:after {
+.accordion-btn.active:after {
   width: 100%;
 }
 
